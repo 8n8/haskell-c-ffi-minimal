@@ -1,0 +1,8 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/20.yaml
+
+extra-include-dirs:
+  - src
+
+extra-lib-dirs:
+  - src
